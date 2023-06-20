@@ -1,0 +1,42 @@
+
+#header, #sec-3 {
+     background-color: rgb(243, 248, 242);
+}
+
+
+#border {
+
+     
+     
+     border-width: 1px;
+     border-color: #000000;
+     border-style: solid;
+     margin-bottom: 100px;
+     padding: 20px;
+     width: 800px;
+     border-radius: 14px;
+
+}
+
+#img-card {
+     width: 35px;
+     height: 35px;
+     padding: 3px; 
+     margin: 20px;
+}
+
+#sec-2, #sec-3 {
+     padding: 80px;      
+}
+
+.bi-star svg{
+     color: gold;
+}
+
+.arrow-sec3 svg{
+     color: rgb(218, 143, 5);;
+}
+
+.bi-instagram svg{
+     color: rgb(218, 143, 5);
+}
